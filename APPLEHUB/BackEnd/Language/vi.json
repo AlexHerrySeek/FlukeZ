@@ -1,0 +1,16 @@
+{
+  "English": {
+    "Tab_Main": "Main Settings",
+    "Section_Farm": "Auto Farm",
+    "Btn_Print": "Print Hello",
+    "Notify_Hello": "Hello World!",
+    "Para_Info": "This is a translated paragraph."
+  },
+  "Tiếng Việt": {
+    "Tab_Main": "Cài đặt chính",
+    "Section_Farm": "Tự động cày",
+    "Btn_Print": "In lời chào",
+    "Notify_Hello": "Xin chào thế giới!",
+    "Para_Info": "Đây là đoạn văn bản đã được dịch."
+  }
+}
